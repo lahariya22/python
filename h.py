@@ -1,0 +1,3 @@
+myfriendmohanisagoodboyheisinclass10th = True
+
+print(myfriendmohanisagoodboyheisinclass10th)
