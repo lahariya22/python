@@ -1,8 +1,3 @@
-def W^7():
-    print('hello world...')
+x = 234567
 
-
-W^7()
-
-
-# SyntaxError: expected '('
+print(x)

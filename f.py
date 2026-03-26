@@ -1,3 +1,3 @@
-For = 90
+price = 2345
 
-print(For)
+print(price)

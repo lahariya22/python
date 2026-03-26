@@ -1,4 +1,3 @@
-my name = 'mohan'
+x = 234    
 
-
-# SyntaxError: invalid syntax
+print(x)
