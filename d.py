@@ -1,8 +1,4 @@
-a2345 = True
-
-2abcd = 89
+x = .5
 
 
-# SyntaxError: invalid decimal literal
-
-# print('hello') 
+print(x)

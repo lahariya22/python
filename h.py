@@ -1,3 +1,4 @@
-myfriendmohanisagoodboyheisinclass10th = True
+# x = 0.000000000000001
+x = 0.0000000000000000000000000001
 
-print(myfriendmohanisagoodboyheisinclass10th)
+print(x)

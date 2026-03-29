@@ -1,3 +1,6 @@
-x = 2,34,567
+x = 2.3.4
 
 print(x)
+
+
+# SyntaxError: invalid syntax

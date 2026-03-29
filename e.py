@@ -1,6 +1,3 @@
-price = $2345
+x = 5.
 
-print(price)
-
-
-# SyntaxError: invalid syntax
+print(x)

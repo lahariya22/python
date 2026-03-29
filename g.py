@@ -1,5 +1,3 @@
-class if:
-    pass
+x = 5397.532e-3
 
-
-# SyntaxError: invalid syntax
+print(x)

@@ -1,3 +1,3 @@
-price = 2345
+x = 2.456e3
 
-print(price)
+print(x)
