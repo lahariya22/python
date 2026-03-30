@@ -1,6 +1,3 @@
-x = 2.3.4
+x = 5+31j
 
 print(x)
-
-
-# SyntaxError: invalid syntax
