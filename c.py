@@ -1,6 +1,5 @@
-x = true
+x = 'Aa 2%#\n@!~&^'
+
+# x = 'Aa 2%#@!~&^'
 
 print(x)
-
-
-# NameError: name 'true' is not defined. Did you mean: 'True'?
