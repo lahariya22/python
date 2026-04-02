@@ -1,3 +1,3 @@
-x = 23 > 30
+x = "mohan is a 'good' boy"
 
 print(x)
