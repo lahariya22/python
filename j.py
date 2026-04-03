@@ -1,10 +1,5 @@
-age = 12
+x = '''mohan is agood boy 
+    and he is a good singer
+    he is in class 12th'''
 
-#print(age)
-
-Age = 34
-
-print(Age)
-print(age)
-
-print(Age + age)
+print(x)
