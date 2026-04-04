@@ -1,3 +1,4 @@
-x = 0x1b3
+# x = "mohan is a "good" boy"
+x = 'mohan is a "good" boy'
 
 print(x)

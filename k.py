@@ -1,3 +1,3 @@
-x = 0b1217
-
-# SyntaxError: invalid digit '2' in binary literal
+x = 'mohan is a good boy ' \
+'and he is in class 12th'
+print(x) 
