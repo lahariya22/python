@@ -1,11 +1,5 @@
-# string literal(constant)
+x = 3.14
 
-x = 'om'
+y = type(x)
 
-y = "mohan"
-
-z = '''raj'''
-
-print(x)
 print(y)
-print(z)

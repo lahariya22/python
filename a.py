@@ -1,13 +1,7 @@
-# string literal(constant)
+x = 34
 
-# empty string literal
+# str<-type(x)
 
-x = ''
+y = type(x)
 
-y = ""
-
-z = ''''''
-
-print(x)
 print(y)
-print(z)
