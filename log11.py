@@ -1,0 +1,1 @@
+print('geet' or 'jeet')
